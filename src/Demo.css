@@ -1,0 +1,11 @@
+.maindiv_style{
+    background-color: skyblue;
+    padding: 20px;
+    text-align: center;
+    width: 70%;
+    margin: 0 auto;
+}
+.highlight{
+    text-decoration: underline;
+    font-weight: 600;
+}
